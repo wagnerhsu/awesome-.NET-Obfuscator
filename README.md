@@ -103,50 +103,65 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## A =>
 ### Agile
 * [Agile](https://secureteam.net/acode-features-detailed)- Agile.NET, Powerful Code Protection, Obfuscation, and Licensing Solution for your .NET Apps
+* Supports .NET Core, .NET Framework and the .NET Compact Framework
+* Commercial
 
 ### Aldaray Rummage Obfuscator
 * [Aldaray Rummage Obfuscator](https://www.aldaray.com/) - Tie your code into knots and make the hackers cry
+* Commercial
+
 ### AppFuscator
 * [AppFuscator](https://appfuscator.com/) - Inteligence algorithm provide your application powerful protection! 
+* Free version for minimal protection
 ### ArmDot
 * [ArmDot](https://www.armdot.com/) - Protection, software licensing tool, and obfuscator for C# and .Net with support of serial keys and files embedding
+* Commercial
 ### Arya
 * [Arya](https://github.com/HarmJ0y/Arya) - Arya is a simple obfuscator for .NET binaries.
 ### AsStrongAsFuck
 * [AsStrongAsFuck](https://github.com/Charterino/AsStrongAsFuck) - A console obfuscator for .NET assemblies.
+* Free C# console obfuscation engine
 
 ------------------
 <!-- B -->
 ## B =>
 ### Babel
 * [Babel](https://www.babelfor.net/) - Protect your software against reverse engineering to safeguard the intellectual property of your code
+* Commercial
 ### Beds Protector
 
 * [Beds Protector](https://github.com/BedTheGod/ConfuserEx-Mod-By-Bed) - Beds Protector | Best free obfuscation out right now ( ConfuserEx Mod )
+* Supports .NET Framework 2.0/3.0/3.5/4.0/4.5
 ### BitHelmet
 
 * [BitHelmet](https://bithelmet.software.informer.com/) - BitHelmet obfuscator protects your .NET Portable Executables 
 ### BoxedApp
 
 * [BoxedApp](https://www.boxedapp.com/) - Import and virtualize ActiveX, Flash and .Net runtime • Rich SDK for developers • Create custom packers • Supports both 32-bit and 64-bit applications • Virtual file system and registry
+* Commercial
 ------------------
 <!-- C -->
 ## C =>
 ### ConfuserEx
 
 * [ConfuserEx](https://github.com/yck1509/ConfuserEx) - An open-source, free protector for .NET applications.
+* Supports .NET Framework 2.0/3.0/3.5/4.0/4.5
+* Archived
 ### ConfuserEx 2
 
 * [ConfuserEx 2](https://github.com/mkaring/ConfuserEx) - Updated ConfuserEx (by mkaring), an open-source, free obfuscator for .NET applications.
+* Supports .NET Framework 2.0/3.0/3.5/4.0/4.5/4.6/4.7/4.8
 ### Crypto
 
 * [Crypto](https://www.ssware.com/cryptoobfuscator/obfuscator-net.htm) - Powerful Obfuscation & Code Protection For .Net That Actually Works!
+* Commercial
 ### Cyphor
 
 * [Cyphor](https://cyphor.net/details) - Cyphor is more than just an obfuscator. Cyphor is the best, fastest, and most reliable obfuscation protection tool to work with.
 ### cil-examining
 
 * [cil-examining](https://github.com/mira-ta/cil-examining) - A .NET Framework (.NET Core in the future) obfuscator. Owner is currently out sick thus working on project is stopped.
+* Archived
 ### Cheap Obfuscator
 
 * [Cheap Obfuscator](https://github.com/Polymeth/cheap-obfuscator) - a pretty bad obfuscator made to learn
@@ -165,36 +180,43 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ### DarksProtector
 
 * [DarksProtector](https://github.com/BillytheButcher/DarksProtector) - DarksProtector 2.0 | ConfuserEx Modded 
+* Supports .NET Framework 2.0/3.0/3.5/4.0/4.5
 ### DeepSea
 
 * [DeepSea](https://deepsea-obfuscator.soft112.com/) - DeepSea Obfuscator makes obfuscation of your .NET assemblies an intuitive and integrated part of your product development.
 ### Demeanor
 
 * [Demeanor](http://www.wiseowl.com/products/products.aspx) - Demeanor for.NET protects your intellectual property by making it extremely difficult to reverse engineer your .NET applications.
+* Commercial
 ### Denvelope
 
 * [Denvelope](https://github.com/TWVyY3VyaW8K/Denvelope) - NET Obfuscator
 ### DNGuard HVM
 
 * [DNGuard HVM](http://www.dnguard.net/index.php) - Advanced .NET Code Protection and Obfuscation Technology
+* Commercial
 ### Dotfuscator
 
 * [Dotfuscator](https://www.preemptive.com/products/dotfuscator/overview) - Dotfucator's .NET obfuscation and runtime checks have protected thousands of apps for over a decade.
+* FREE for Personal Use
 ### DotNetGuard
 
 * [DotNetGuard](https://github.com/Modify24x7/DotNetGuard) - .Net Protector ( ConfuserEx Mod )
 ### DotNetPatcher
 
 * [DotNetPatcher](https://github.com/mwsrc/DotNetObfuscator) - DotNetObfuscator
+* Use MonoCecil library for .NET applications ! It doesn't support WPF .exe
 ### DotNetSafer
 
 * [DotNetSafer](https://dotnetsafer.com/) - Increase the security of your software, reduce costs and save time with the tools that dotnetsafer offers you to protect your intellectual property and guarantee the integrity of your .NET and .NET Core applications.
+* Commercial
 ### Dotpack
 
 * [Dotpack](https://github.com/daeken/Dotpack/) - Extreme (TM) binary packer for .NET 
 ### DCNETProtector
 
 * [DCNETProtector](https://github.com/dcsoft-yyf/DCNETProtector) - An open source tool to encrypt .NET assembly file, help people protect theirs copyright. It has a command line interface and some specific features. It claims to have only 6000 lines of code.
+* Now support .NET Core 3.1
 ------------------
 <!-- E -->
 ## E =>
@@ -202,13 +224,16 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ### Eazfuscator
 
 * [Eazfuscator](https://www.gapotchenko.com/eazfuscator.net) - Eazfuscator.NET is the obfuscator for .NET platform. 
+* Commercial
 ### Enigma Protector
 
 * [Enigma Protector](https://enigmaprotector.com/en/about.html) - A professional system for licensing and protecting
 executable files for Windows.
+* Commercial
 ### ElecKey
 
 * [ElecKey](https://www.sciensoft.com/) - ElecKey is a suite of software and tools that provide a complete solution for software security, copy protection, and license management. It allows you to protect your software against piracy, tampering, and reverse-engineering, as well as gain full control over secure software distribution and licenses.
+* Commercial
 ------------------
 <!-- G -->
 ## G =>
@@ -216,9 +241,12 @@ executable files for Windows.
 ### Guardship-.NET-Protector
 
 * [Guardship-.NET-Protector](https://github.com/Rustemsoft/Guardship-.NET-Protector) - Guardship .NET Protector is a development software that helps to protect the executable file of .NET application by making its code unreadable for MSIL disassemblers.
+* Commercial
 ### Goldfuscator
 
 * [Goldfuscator](https://github.com/AnErrupTion/Goldfuscator) - A fork of the original SimpleObfuscator project, made for training. 
+* Support all .NET Frameworks
+* Support all .NET Core
 ------------------
 <!-- H -->
 ## H =>
@@ -232,13 +260,16 @@ executable files for Windows.
 ### ILProtector
 
 * [ILProtector](http://www.vgrsoft.net/Products/ILProtector) - ILProtector is a protector for .NET applications. ILProtector is designed to protect intellectual property of the software.
+* Commercial
 
 ### IntelliLock
 
 * [IntelliLock](https://www.eziriz.com/intellilock.htm) - IntelliLock is an advanced 100% managed solution for licensing controls and applications. While .NET Reactor offers a licensing system based on native code protection, IntelliLock opts a 100% managed way to apply licensing and protection features. This way single files can be produced without the need of additional files. 
+* Commercial
 ### IntelliProtector
 
 * [IntelliProtector](https://intelliprotector.com/Products/Net-Obfuscator/Features) - IntelliProtector .Net Obfuscator is excellent Free tool for your IntelliProtector .Net projects.
+* Commercial
 
 ------------------
 <!-- K -->
@@ -270,6 +301,7 @@ executable files for Windows.
 ### MancoSoftware
 
 * [MancoSoftware](http://www.mancosoftware.com/) - Manco .NET Licensing System is the powerful licensing and copy protection software for .NET Windows Forms, WPF, WCF, WWF and ASP.NET applications, controls and components.
+* Commercial
 ### MdCrypt
 
 * [MdCrypt](https://github.com/wwh1004/Mdcrypt) - [WIP] A next-generation protector for .NET applications (.NET Framework, .NET Core, and more) 
@@ -283,6 +315,8 @@ executable files for Windows.
 ### ModPhuserEx
 
 * [ModPhuserEx](https://github.com/0xFireball/ModPhuserEx) - A .NET protector supporting .NET Core forked from the discontinued ConfuserEx
+* Supports .NET Framework 2.0/3.0/3.5/4.0/4.5
+* Experimental support for .NET Core/ASP.NET Core
 ### MPRESS
 
 * [MPRESS](http://www.matcode.com/) - Free high-performance executable packer for PE32/PE32+/.NET executable formats!
@@ -293,9 +327,11 @@ executable files for Windows.
 ### netshrink
 
 * [netshrink](https://www.pelock.com/products/netshrink) - netshrink is an exe packer aka executable compressor, application password protector and virtual DLL binder for Windows & Linux .NET applications.
+* Commercial
 ### Neo ConfuserEx
 
 * [Neo ConfuserEx](https://github.com/XenocodeRCE/neo-ConfuserEx) - Updated ConfuserEX, an open-source, free obfuscator for .NET applications
+* Supports .NET Framework 2.0/3.0/3.5/4.0/4.5 and up to 4.7.2
 ### NetFuscate
 
 * [NetFuscate](http://netfuscate.com/) - NETFuscate is a .NET obfuscator and a .NET code protection tool that offers protection against reverse engineering of your code.
@@ -318,6 +354,7 @@ your file. The list of feature can be founded on our official documentation page
 ### Noisette
 
 * [Noisette](https://github.com/XenocodeRCE/Noisette-Obfuscator) - An Obfuscator for .NET assembly 
+* GPL-3.0 License
 
 ------------------
 <!-- O -->
@@ -335,9 +372,11 @@ your file. The list of feature can be founded on our official documentation page
 ### Obfuscar
 
 * [Obfuscar](https://github.com/obfuscar/obfuscar) - Open source obfuscation tool for .NET assemblies
+* Obfuscar is an open source .NET obfuscator released under MIT license. It provides basic obfuscation features that help secure secrets in a .NET assembly.
 ### Obfuscator.NET 2009
 
 * [Obfuscator.NET 2009](http://www.macrobject.com/en/obfuscator/index.htm) - Protect your .NET assembly
+* Commercial
 ### OctopusObfuscator
 
 * [OctopusObfuscator](https://github.com/Alxs009/OctopusObfuscator) - Basic obfuscator for .NET
@@ -369,6 +408,7 @@ your file. The list of feature can be founded on our official documentation page
 ### PV Logiciels dotNet Protector
 
 * [PV Logiciels dotNet Protector](http://www.pvlog.com/) - PV Logiciels dotNet Protector is a powerful .NET code protection system that prevents your assemblies from being decompiled.
+* Commercial
 ------------------
 <!-- R -->
 ## R =>
