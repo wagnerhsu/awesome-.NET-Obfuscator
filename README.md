@@ -432,15 +432,18 @@ your file. The list of feature can be founded on our official documentation page
 ### Skater .NET Obfuscator
 
 * [Skater .NET Obfuscator](http://rustemsoft.com/obfuscator.aspx) - Rustemsoft proposes Skater .NET Obfuscator, an obfuscation tool for .NET code protection. It implements all known software protection techniques and obfuscation algorithms.
+* Commercial
 ### SkiDzEX
 
 * [SkiDzEX](https://github.com/NotPrab/SkiDzEX) - A modded version of ConfuserEx | SkiDzEx
 ### SmartAssembly
 
 * [SmartAssembly](https://www.red-gate.com/products/dotnet-development/smartassembly/) - Protect your .NET code and IP with SmartAssembly
+* Commercial
 ### String Encrypt
 
 * [String Encrypt](https://www.pelock.com/products/string-encrypt) - Encrypt strings in source code & files using randomly generated algorithms, and generate the corresponding unique decryption code for any supported programming language.
+* Commercial
 ### StrongVM
 
 * [StrongVM](https://github.com/Modify24x7/StrongVM) - StrongVM is a virtualizing protector for .NET applications.
@@ -453,6 +456,7 @@ your file. The list of feature can be founded on our official documentation page
 ### Spices
 
 * [Spices](https://www.9rays.net/Category/55-spicesnet-obfuscator.aspx) - Spices.Net Obfuscator is a .Net code obfuscation, protection and optimization tool that offers the wide range of technologies to completely protect your .Net code and secure your data.
+* Commercial
 ------------------
 <!-- T -->
 ## T =>
@@ -460,6 +464,7 @@ your file. The list of feature can be founded on our official documentation page
 ### Themida
 
 * [Themida](https://www.oreans.com/Themida.php) - Advanced Windows software protection system
+* Commercial
 ### Trinity-ConfuserEx-Mod
 
 * [Trinity-ConfuserEx-Mod](https://github.com/TrinityNET/Trinity-ConfuserEx-Mod) - A modded ConfuserEx created by Mighty, Bed and Centos. 
@@ -470,6 +475,7 @@ your file. The list of feature can be founded on our official documentation page
 ### Unikod
 
 * [Unikod](https://github.com/SDSkyKlouD/Unikod) - Text styling & obfuscation library for C# 
+* Archived
 ------------------
 <!-- V -->
 ## V =>
@@ -497,4 +503,5 @@ your file. The list of feature can be founded on our official documentation page
 ### Z00bfuscator
 
 * [Z00bfuscator](https://github.com/Dentrax/Z00bfuscator) - Z00bfuscator is the simple, open-source, cross-platform obfuscator for .NET Assemblies built on .NET Core 
+* Z00bfuscator teaches you how obfuscating phases works as simplified as possibly. It is designed in the bare-minimum struct
 
